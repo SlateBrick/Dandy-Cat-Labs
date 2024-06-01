@@ -1,4 +1,4 @@
 ---
-title: In a world of Pure Imagination
+title: Home Page
 ---
 
