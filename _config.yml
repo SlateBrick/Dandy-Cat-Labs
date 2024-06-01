@@ -21,7 +21,7 @@ header_pages:
 minima:
   skin: dark
   social_links:
-    - { platform: github,         user_url: "https://github.com/jekyll/minima" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/dandycatlabs/" }
     - { platform: youtube,        user_url: "https://www.youtube.com/channel/UCVWvkXXXVP52vxdrMjT3YKw" }
     - { platform: rss,            user_url: "https://slatebrick.github.io/Dandy-Cat-Labs/feed.xml" }
+    - { platform: printables,     user_url: "https://www.printables.com/@DandyCatLabs_222320" }
