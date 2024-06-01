@@ -6,10 +6,4 @@ author:
   
 description: Everything I make
 
-remote-theme: jekyll/minima
-
-#header_page:
-#  - about.md
-
-minima:
-  skin: auto
+theme: minima
