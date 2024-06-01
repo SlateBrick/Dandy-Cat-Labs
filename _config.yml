@@ -1,4 +1,15 @@
 title: Dandy Cat Labs
-author: SlateBrick
+
+author: 
+  name: SlateBrick
+  email: test@test.com
+  
 description: Everything I make
-theme: minima
+
+remote-theme: jekyll/minima
+
+#header_page:
+#  - about.md
+
+minima:
+  skin: auto
