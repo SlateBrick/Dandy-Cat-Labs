@@ -1,5 +1,4 @@
 ---
-title: The land of Mystery and Creation
+layout:home
 ---
 
-Keep in mind, *we are currently in the index*
