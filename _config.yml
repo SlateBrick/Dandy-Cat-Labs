@@ -9,7 +9,7 @@ description: >
   following the path less traveled
   Bringing the imagined into reality
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/architect
 
 plugins:
   - jekyll-feed
