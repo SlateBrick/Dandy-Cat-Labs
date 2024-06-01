@@ -1,8 +1,13 @@
 title: Dandy Cat Labs
 
-author: SlateBrick
+author: 
+  name: SlateBrick
+  email: test@domain.com
   
-description: Everything I make
+description: >
+  Finding the joy in making, 
+  following the path less traveled
+  Bringing the imagined into reality
 
 remote_theme: jekyll/minima
 
