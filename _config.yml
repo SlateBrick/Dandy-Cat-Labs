@@ -21,6 +21,6 @@ header_pages:
 minima:
   skin: dark
   social_links:
-    - { platform: instagram,      user_url: "https://www.instagram.com/dandycatlabs/" }
+    - { platform: instagram,      user_url: "https://www.instagram.com/dandycatlabs" }
     - { platform: youtube,        user_url: "https://www.youtube.com/channel/UCVWvkXXXVP52vxdrMjT3YKw" }
 
