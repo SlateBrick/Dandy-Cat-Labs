@@ -1,9 +1,7 @@
 title: Dandy Cat Labs
 
-author: 
-  name: SlateBrick
-  email: test@domain.com
-  
+author: SlateBrick
+
 description: >
   Finding the joy in making, 
   following the path less traveled
@@ -15,6 +13,3 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
-
-header_pages:
-  - about.md
