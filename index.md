@@ -1,4 +1,4 @@
 ---
-title: Dandy Cat Labs
+title: In a world of Pure Imagination
 ---
 
